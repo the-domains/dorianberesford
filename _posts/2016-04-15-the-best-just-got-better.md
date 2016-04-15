@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'London is now seen as the most desirable place in the world for wealthy overseas property investors. The city has replaced New York as World No.1 in the eighth annual Wealth Report published by global property consultants Knight Frank and is a financial, political and cultural powerhouse with rapidly expanding technology, media, telecommunications, business and retail service sectors.'
-datePublished: '2016-04-15T19:21:18.165Z'
-dateModified: '2016-04-15T19:14:59.941Z'
+datePublished: '2016-04-15T19:22:45.091Z'
+dateModified: '2016-04-15T19:21:59.439Z'
 title: THE BEST JUST GOT BETTER
 author: []
 sourcePath: _posts/2016-04-15-the-best-just-got-better.md
